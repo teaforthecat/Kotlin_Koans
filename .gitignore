@@ -1,0 +1,50 @@
+# Project exclude paths
+/.gradle/
+/Builders/Builders how it works/build/
+/Builders/Builders implementation/build/
+/Builders/Function literals with receiver/build/
+/Builders/Html builders/build/
+/Builders/Html builders/out/
+/Builders/Html builders/out/production/classes/
+/Builders/String and map builders/build/
+/Builders/The function apply/build/
+/Classes/Data classes/build/
+/Classes/Extension functions/build/
+/Classes/Rename on import/build/
+/Classes/Sealed classes/build/
+/Classes/Smart casts/build/
+/Collections/All Any and other predicates/build/
+/Collections/Associate/build/
+/Collections/Compound tasks/build/
+/Collections/Filter map/build/
+/Collections/FlatMap/build/
+/Collections/Fold and reduce/build/
+/Collections/Getting used to new style/build/
+/Collections/GroupBy/build/
+/Collections/Introduction/build/
+/Collections/Max min/build/
+/Collections/Partition/build/
+/Collections/Sequences/build/
+/Collections/Sort/build/
+/Collections/Sum/build/
+/Conventions/Comparison/build/
+/Conventions/For loop/build/
+/Conventions/Invoke/build/
+/Conventions/Operators overloading/build/
+/Conventions/Ranges/build/
+/Generics/Generic functions/build/
+/Introduction/Default arguments/build/
+/Introduction/Hello, world/build/
+/Introduction/Lambdas/build/
+/Introduction/Named arguments/build/
+/Introduction/Nothing type/build/
+/Introduction/Nullable types/build/
+/Introduction/String templates/build/
+/Introduction/Triple-quoted strings/build/
+/Properties/Delegates examples/build/
+/Properties/Delegates how it works/build/
+/Properties/Lazy property/build/
+/Properties/Properties/build/
+/util/build/
+/util/out/
+/util/out/production/classes/
